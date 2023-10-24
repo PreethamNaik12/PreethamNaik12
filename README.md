@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=preethamnaik12&label=Profile%20views&color=0e75b6&style=flat" alt="preethamnaik12" /> </p>
 
-- 🔭 I’m currently working on [Shoki](https://github.com/PreethamNaik12/grafbase-shoki)
+- 🔭 I’m currently working on [Parashu](https://github.com/PreethamNaik12/parashu)
 
-- 🌱 I’m currently learning **NextJS , GraphQL, Grafbase**
+- 🌱 I’m currently learning **ReacttJS , GraphQL**
 
 - 📫 How to reach me **preethamgr123@gmail.com**
 
