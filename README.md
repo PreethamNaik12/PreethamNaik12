@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [Parashu](https://github.com/PreethamNaik12/parashu)
 
-- 🌱 I’m currently learning **ReacttJS , GraphQL**
+- 🌱 I’m currently learning **ReacttJS , RESTAPIs,**
 
 - 📫 How to reach me **preethamgr123@gmail.com**
 
