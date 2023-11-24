@@ -1,11 +1,9 @@
 <h1 align="center">Hi 👋, I'm Preetham G</h1>
 <h3 align="center">A passionate Software Engineer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=preethamnaik12&label=Profile%20views&color=0e75b6&style=flat" alt="preethamnaik12" /> </p>
-
 - 🔭 I’m currently working on [Parashu](https://github.com/PreethamNaik12/parashu)
 
-- 🌱 I’m currently learning **ReacttJS , RESTAPIs,**
+- 🌱 I’m currently learning **ReactJS , RESTAPIs,**
 
 - 📫 How to reach me **preethamgr123@gmail.com**
 
