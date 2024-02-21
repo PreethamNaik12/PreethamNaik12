@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Preetham G</h1>
 <h3 align="center">A passionate Software Engineer from India</h3>
 
-- 🔭 I’m currently working on [Parashu](https://github.com/PreethamNaik12/parashu)
+- 🔭 I’m currently working on [Incident](https://github.com/shivoddha/Mai-Kudla/)
 
 - 🌱 I’m currently learning **ReactJS , RESTAPIs,**
 
