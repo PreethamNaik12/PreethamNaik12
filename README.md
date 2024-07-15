@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Preetham G</h1>
 <h3 align="center">A passionate Software Engineer from India</h3>
 
-- 🔭 I’m currently working on [Incident](https://incident.nitk.ac.in)
+- 🔭 I’m currently working on [My Portfolio](https://preeth.vercel.app)
 
-- 🌱 I’m currently learning **ReactJS , RESTAPIs,**
+- 🌱 I’m currently learning **Deep Learning , Pytorch**
 
-- 📫 How to reach me **preethamgr123@gmail.com**
+- 📫 Reach me @**preethamgr123@gmail.com**
 
 - ⚡ Fun fact **I think I am funny**
 
